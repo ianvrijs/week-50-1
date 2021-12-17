@@ -1,2 +1,2 @@
-# POO-programming/modules PHP
- school project including POO-programming mixed with modules.
+# OOP/modules PHP
+ school project including OOP mixed with modules.
